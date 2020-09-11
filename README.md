@@ -8,3 +8,6 @@ decisao
 repeticao
 
 O Eclipse utilizado é a versão 2020.
+
+Java SE => para desenvolvimento desktop
+Java EE => para desenvolvimento WEB
